@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(160, 124, 76);
+}
+
+div{
+    background-color: burlywood;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 80px;
+    border-radius:15px;color: #fff;
+}
+
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    border: none;
+    font-size: 15px;
+    border-radius: 5px;
+}
